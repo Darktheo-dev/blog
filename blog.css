@@ -1,0 +1,16 @@
+#Intro {
+  border-radius: 10px;
+  text-align: center;
+  color: blue;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serifs;
+}
+
+#macbook {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
