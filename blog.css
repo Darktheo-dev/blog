@@ -3,7 +3,7 @@
   text-align: center;
   color: blue;
   font-size: 18px;
-  font-family: Georgia, "Times New Roman", Times, serifs;
+  font-family: Georgia, "Times New Roman", Times, serif; /* Corrected the 'serifs' to 'serif' */
 }
 
 #macbook {
@@ -15,11 +15,13 @@
   border-radius: 20px;
 }
 
-#Number2 {
+#Number2,
+#second {
   text-align: center;
   color: blue;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
 #second {
   text-align: center;
   color: blue;
