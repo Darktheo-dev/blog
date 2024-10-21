@@ -19,3 +19,15 @@
   color: blue;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+#Button_2 {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: blue;
+  border-radius: 10px;
+  font-size: 10px; /* Fixed typo here */
+  line-height: 200px; /* Added to vertically center text */
+}
