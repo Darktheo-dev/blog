@@ -46,5 +46,6 @@
   text-align: center;
   color: blue;
   border-radius: 10px;
-  font-size: 10x;
+  font-size: 10px; /* Fixed typo here */
+  line-height: 200px; /* Added to vertically center text */
 }
