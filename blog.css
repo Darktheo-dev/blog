@@ -39,10 +39,10 @@
 }
 
 #Button_1 {
-  text-align: center;
   display: block;
   margin: auto;
+  text-align: center;
+  color: blue;
   border-radius: 10px;
   font-size: 10x;
-  color: blue;
 }
