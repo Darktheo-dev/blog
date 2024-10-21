@@ -41,6 +41,8 @@
 #Button_1 {
   display: block;
   margin: auto;
+  width: 200px;
+  height: 200px;
   text-align: center;
   color: blue;
   border-radius: 10px;
