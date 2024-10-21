@@ -6,3 +6,10 @@
   height: 200px;
   border-radius: 20px;
 }
+
+#Intro {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: blue;
+  text-align: center;
+}
