@@ -41,4 +41,6 @@
 #Button_1 {
   display: block;
   margin: auto;
+  border-radius: 10px;
+  font-size: 18px;
 }
